@@ -1,0 +1,6 @@
+{
+  "name": "Word Dictation App",
+  "description": "An elegant word spelling and dictation application with photo OCR import, manual word add, AI phonetic and example sentence generation, and persistent mistake review system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
